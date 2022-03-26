@@ -1,4 +1,4 @@
-# <p align="center">[Download](https://github.com/luizzzzzzzz/SRB2KartAddons/archive/refs/tags/release.zip)</p>
+# <p align="center">[Download](https://github.com/luizzzzzzzz/SRB2KartAddons/releases/latest)</p>
 
 # Tutorial
 
